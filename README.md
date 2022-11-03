@@ -4,7 +4,7 @@ I'm a passionate Quality Engineer from Brazil.
 
 **About me**
 
-- 💼 Software Quality Engineer at [DBC Company](https://www.dbccompany.com.br/)
+- 💼 Software Quality Engineer at [Sicredi](https://www.sicredi.com.br/home/)
 
 - ❤️ I love writing JavaScript & Cypress, and building fun experiments.
 
